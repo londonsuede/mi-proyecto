@@ -2,3 +2,25 @@
     font-family: 'Allison', cursive;
     font-size: xx-large;
 }
+.jumbotron {
+    background-image: url(./img/proyecto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+}
+.list {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list li {
+  display: inline;
+  padding: 10px;
+}
+.list i {
+  font-size: 30px;
+  color: whitesmoke;
+}
+.list i:hover {
+  color: black;
+}
